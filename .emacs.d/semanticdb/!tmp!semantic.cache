@@ -1,0 +1,27 @@
+;; Object tmp/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "tmp/"
+  :tables (list 
+   (semanticdb-table "asdfasd.java"
+    :major-mode 'jde-mode
+    :tags nil
+    :file "asdfasd.java"
+    :pointmax 1
+    :fsize 11
+    :lastmodtime '(21542 31504 211803 502000)
+    :unmatched-syntax 'nil
+    )
+   (semanticdb-table "asdfasdf.java"
+    :major-mode 'java-mode
+    :tags nil
+    :file "asdfasdf.java"
+    :pointmax 1
+    :fsize 102
+    :lastmodtime '(21542 31502 745136 926000)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!tmp!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )

@@ -1,0 +1,22 @@
+;; Object dtime/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "dtime/"
+  :tables
+  (list
+    (semanticdb-table "dtime.java"
+      :major-mode 'java-mode
+      :tags nil
+      :file "dtime.java"
+      :pointmax 1
+      :unmatched-syntax nil)
+    (semanticdb-table "Dtime.java"
+      :major-mode 'java-mode
+      :tags nil
+      :file "Dtime.java"
+      :pointmax 1
+      :fsize 0
+      :lastmodtime '(21839 60038 60043 977000)
+      :unmatched-syntax nil))
+  :file "!home!sotosgc!dtime!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

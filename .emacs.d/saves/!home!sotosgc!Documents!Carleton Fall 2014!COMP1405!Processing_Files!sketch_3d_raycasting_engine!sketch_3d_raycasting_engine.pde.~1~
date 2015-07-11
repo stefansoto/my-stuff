@@ -1,0 +1,10 @@
+void setup{
+  size(1000,600);
+}
+
+void Player(x,y,direction)
+{
+  this.x = x;
+  this.y = y;
+  this.direction = direction)
+}

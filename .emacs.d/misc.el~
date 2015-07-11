@@ -1,0 +1,52 @@
+;; Custom appearence related things in Emacs.
+;; (c) Stefan Soto 2014 under GPL v3 unless otherwise stated. See LICENSE.
+
+;; disable startup screen...
+(setq inhibit-startup-message t)
+
+;; disable gui scrollbar...
+(scroll-bar-mode -1)
+;; disable gui toolbar...
+(tool-bar-mode -1)
+(menu-bar-open -1)
+ 
+;; tabs
+(setq-default indent-tabs-mode nil) ;; disable tabs
+(setq-default c-basic-offset 4) ;; tab width in c, c++, java
+(setq-default tab-width 4) ;; general tab width
+
+;; temporary directory for saved things
+(setq TEMPORARY_DIRECTORY "~/.emacs_temporary")
+
+;; fix scrolling...
+(setq mouse-wheel-scroll-amount '(1 ((shift) . 1))) ;; one line at a time
+(setq mouse-wheel-progressive-speed 1) ;; slowly accelerate scrolling
+(setq mouse-wheel-follow-mouse 't) ;; scroll window under mouse
+(setq scroll-step 1) ;; keyboard scroll one line at a time
+
+;; set default find file directory to home...
+(setq default-directory "~/")
+
+;; no insert key
+(put 'overwrite-mode 'disabled t)
+
+;; avoid those #filename files (lockfiles)
+(setq create-lockfiles nil)
+
+;; cursor move with buffer split automatically
+(defadvice split-window
+  (after move-point-to-new-window activate)
+  (other-window 1))
+
+;; delete selected text
+(delete-selection-mode nil)
+
+;; save backups and emergency saves to /tmp because fuck filling up my filesystem
+(setq backup-directory-alist
+      `((".*" . ,temporary-file-directory)))
+(setq auto-save-file-name-transforms
+      `((".*" ,temporary-file-directory t)))
+
+;; put the stupid shit in the garbage
+(setq custom-file "~/.emacs.d/garbage.el")
+(load "~/.emacs.d/garbage.el")

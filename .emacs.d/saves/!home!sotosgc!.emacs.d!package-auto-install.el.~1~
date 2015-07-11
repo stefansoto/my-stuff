@@ -1,0 +1,41 @@
+;; Packaging configuration for my Emacs configuration.
+;; (c) Stefan Soto 2014 under GPL v3 unless otherwise stated. See LICENSE.
+
+;; source: https://github.com/JackMc/dotfiles/blob/master/.emacs.d/packaging.el
+;; thanks Jack McCraken
+
+;; Initialize the Emacs package manager and load some repos.
+
+;; Melpa and and marmalede repos
+(require 'package)
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.milkbox.net/packages/") t)
+(add-to-list 'package-archives 
+             '("marmalade" . "http://marmalade-repo.org/packages/") t)
+(package-initialize)
+
+(defconst PACKAGES-TO-INSTALL                '(
+                          zenburn-theme 
+                          magit 
+					      auto-complete 
+                          flycheck 
+                          jde 
+                          windmove 
+                          paredit 
+                          multiple-cursors 
+                          edit-server 
+                          dirtree 
+                          ido
+                          linum
+                          ))
+
+(setq need-update-packages nil)
+
+(dolist (package PACKAGES-TO-INSTALL) 
+  (if (not (package-installed-p package)) (setq need-update-packages t)))
+
+(if need-update-packages 
+    (progn
+      (package-refresh-contents)
+      (dolist (package PACKAGES-TO-INSTALL) 
+	(if (not (package-installed-p package)) (package-install package)))))

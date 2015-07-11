@@ -1,0 +1,116 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/" . "Question4/")
+ ("/home/sotosgc/.config/dwb/" . "userscripts/")
+ ("/home/sotosgc/.config/" . "dwb/")
+ ("/home/sotosgc/Documents/Carleton Fall 2014/" . "COMP1405/")
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/" . "sketch_3d_raycasting_engine/")
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/" . "StefanSoto_Assignment1/")
+ ("/home/sotosgc/Documents/" . "Carleton Fall 2014/")
+ ("/home/sotosgc/Games/Katawa Shoujo-linux-x86/" . "game/")
+ ("/home/sotosgc/Music/" . "files/")
+ ("/home/sotosgc/Games/" . "Katawa Shoujo-linux-x86/")
+ ("/home/" . "sotosgc/")
+ ("/home/sotosgc/.forge/" . "decks/")
+ ("/home/sotosgc/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/sotosgc/.emacs.d/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/Question4/"
+ "/home/sotosgc/Documents/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment2/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/PHIL2003/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/sketch_3d_raycasting_engine/"
+ "/home/sotosgc/Downloads/"
+ "/home/sotosgc/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/Question5/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/"
+ "/home/sotosgc/.config/dwb/userscripts/"
+ "/home/sotosgc/Games/Katawa Shoujo-linux-x86/"
+ "/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/test/"
+ "/home/sotosgc/Games/Katawa Shoujo-linux-x86/game/"
+ "/home/sotosgc/Music/"
+ "/home/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "swag.java"
+ "Question4.pde"
+ "backtrace.txt"
+ "asdfasdfasdfsdfsdfdsfd"
+ "COMP1405Assignment1.pdf"
+ "writtenanswers.txt"
+ "WrittenAnswers.txt"
+ "Lecture.org"
+ "Deduction and Induction.pdf"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/sotosgc/.emacs.d/" (21542 28597 371980 747000) "packages/" "./" "saves/" "modeline.el" "abbrev_defs" "elpa/" "LICENSE" ".git/" "../" "package-auto-install.el" ".directory" "auto-save-list/" "zenburn-theme.el" "modes.el" "init.el" "README.md")
+
+ ("/home/sotosgc/" (21542 29732 65244 893000) ".thumbnails/" ".gstreamer-0.10/" ".bashrc" ".mplayer/" ".subversion/" "./" ".frictionalgames/" ".Xauthority" ".zenmap/" ".dmrc" ".esd_auth" "Downloads/" ".maltego/" ".openoffice/" "Phone/" ".dropbox/" ".gnupg/" ".ido.last" ".ssh/" ".cddb/" ".cache/" ".steam/" ".Skype/" ".xsession-errors" "Music/" ".processing/" "Podcasts/" "Documents/" ".java/" ".adobe/" ".android/" ".gnome/" ".viminfo" "../" ".stefan.soto.revoke" ".pki/" ".renpy/" "Games/" "sketchbook/" ".minecraft/" ".local/" ".aspell.en.pws" ".bash_profile" ".forge/" ".macromedia/" ".ICEauthority" "processing-2.2.1/" ".bash_logout" ".directory" ".kde4/" ".gpg-agent-info" ".purple/" ".AndroidStudioBeta/" ".wine/" ".pulse-cookie" ".steampid" ".swt/" "Desktop/" ".dbus/" ".gimp-2.8/" ".aspell.en.prepl" ".xinitrc" "Dropbox/" ".gphoto/" ".config/" ".steampath" "Videos/" "bin" "TODO.org" ".bash_history" ".emacs.d/")
+
+ ("/home/sotosgc/Documents/" (21542 25301 882181 689000) "important-info.txt" "snapshot1.png" "./" "#sadfasdf#" "pjava.sh" "AIS/" "#to_download.txt#" "cube-list.org" "#staples-modern.org#" "hey.txt" "selvala.dck" "backtrace.txt" "../" "Carleton Fall 2014/" "sketchbook/" "highschool/" "Carleton-housing.org" "asdfasdfsdfdfd.png" "Partition-Stucture.org" "QPGBqiM.jpg" ".directory" "mtg-need.org" "asdfasdfasdfsdfsdfdsfd" "snapshot2.png" "dwb/" "TODO.org" "nds games/")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/Question5/" (21542 21646 579071 239000) "./" "sketch.properties" "Question5.pde" "../")
+
+ ("/home/sotosgc/Downloads/" (21542 11397 473029 510000) "E8BDjbQ.jpg" "Anthony-Kiedis.pdf" "CN5l5.jpg" "emacs_tutorial.ppt" "diramio/" "Pathfinder RPG Character Sheet.pdf" "pmount.tar.gz" "YYl3JEQ.jpg" "maps-in-time.pdf" "iDDs0rSMppimK.png" "./" "thecrypt-run-the-jewels.zip" "old-install-files/" "SteamInstall.msi" "HR4Qv7w.jpg" "pmount/" "100317893208.sdx" "android-sdk-r23.0.2-1-x86_64.pkg/" "wfmu.pls" "skype4pidgin-20130113-3-x86_64.pkg/" "Game of Thrones - Imgur.html" "Minecraft/" "grave-of-the-fireflies-hotaru-no-haka_english-136188.rar" "Pathfinder - Core Rulebook.pdf" "B-Sides 1983-2007 [FLAC].zip" "LC.zip" "steam_latest.deb" "Death_Grips-NO_LOVE_DEEP_WEB.zip" "SteamSetup.exe" "qur040.zip" "Turing 4.1.1/" "forge-gui-desktop-1.5.20-SNAPSHOT.tar.bz2" "George_Martin_-_A_Feast_for_Crows.pdf" "Structure Diagrams.ppt" "clannad-fv-patch-20120607.zip" "Typershark/" "HustinManor.rar" "experiment6.pdf" "Deduction and Induction (1).ppt" "L21_MagneticFields (2).pdf" "2745.jpg" "android-sdk-r23.0.2-1-x86_64.pkg.tar.xz" "Call.Of.Duty.Modern.Warfare.2 - Razor1911.torrent" "KTK Sultai Fankit/" "Deduction and Induction (2).ppt" "SDM.pkg" "../" "Joel. (aka MaG) - freedom.zip" "SoftonicDownloader_for_call-of-duty-4.exe" "CurtisBarlowwilkes_Assignment2.zip" "android-studio-0.8.4-1-x86_64.pkg.tar.xz" "mage-bundle-1.3.0.dev2014-09-04v9.zip" "mtg_ipg_02may14_en (1).pdf" "[4ls]_katawa_shoujo_enigmatic_box_of_sound_[503ACD68].zip" "XpressConnect-x64 (2).tar.bz2" "swedish.au" "Call.Of.Duty.Modern.Warfare.2 - Razor1911 (2).torrent" "LC/" "MATH 1007G - Recommended exercises - 2014_01.pdf" "L21_MagneticFields.pdf" "Guichard-Calculus-EarlyTranscendentals-Carleton-MATH1007.pdf" "modo_powered_cube.txt" "GameofThronesS4Finale.pdf" "XpressConnect-x64 (1).tar.bz2" "KS/" "fglAkfL.jpg" "el503w_om_gb.pdf" "UOEc2Ar.jpg" "Whistleblowing.pdf" "calendar_2014-09-28_2014-10-05.pdf" "android-studio-0.8.4-1-x86_64.pkg/" "Call.Of.Duty.Modern.Warfare.2 - Razor1911 (1).torrent" "mtg_ipg_02may14_en.pdf" "forge-gui-desktop-1.5.24.tar.bz2" "Topics and Readings.docx" "L21_MagneticFields (1).pdf" "processing-api/" "launch (1).ica" "uP1nJZM.jpg" "Katawa Shoujo Prerelease.rar" "Arch Linux Light Wallpaper Images 6 HD Wallpapers.jpg" "KTK Sultai Fankit.zip" "Turing 4.1.1.zip" "2MuwdJW.jpg" "skype4pidgin-20130113-3-x86_64.pkg.tar.xz" "974buX8.jpg" "fglAkfL (1).jpg" "0321336313 (1).pdf" "ggF9T79.jpg" "CurtisBarlowwilkes_Assignment2/" "explanation_2013_full_05.pdf" "3eEC52y.jpg" "XpressConnect-x64/" "0321336313.pdf" "DRUGS-(DatPiff.com).zip" "Deduction and Induction.ppt" "processing-2.2.1-linux64.tgz" "dwb.desktop" "GqQ6n8h.png" "Arch Linux Light Wallpaper Widescreen 2 HD Wallpapers.jpg" "photo.JPG" "launch.ica" "[4ls]_katawa_shoujo_1.1-[linux-x86][B5C707D5].tar.bz2.torrent" "Structure Diagrams (1).ppt" "forge-gui-desktop-1.5.26.zip" "malletgensoc03.pdf" "Winter.Sleep.(Kis.uykusu).2014.DVDRip.XviD-Cannesfilm.torrent" "63 Diffraction.docx" "TheKeyToConfidence.pdf" "Lab9.pdf" "XpressConnect-x64.tar.bz2")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/sketch_3d_raycasting_engine/" (21541 58346 923196 265000) "./" "sketch.properties" "../" "sketch_3d_raycasting_engine.pde")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/Question4/" (21542 23294 158970 777000) "./" "Question4.pde" "../" "#Question4.pde#")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment1/" (21541 58330 339863 943000) "WrittenAnswers.txt" "./" "Question4/" "Question5/" "../" "Question6/")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/StefanSoto_Assignment2/" (21542 13960 992873 200000) "./" "../" "writtenanswers.txt")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/" (21541 53959 46506 543000) "./" "COMP1405Assignment1.pdf" "Class2.org" "StefanSoto_Assignment1/" "Class3.org" "../" "Processing_Files/" "StefanSoto_Assignment2/" "Class4.org")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/PHIL2003/" (21541 53706 219855 292000) "./" "../" "Deduction and Induction.pdf" "Lecture.org")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/" (21540 11320 833254 660000) "./" "run/" "../" "test/" "modes/" "tools/" "sketch_3d_raycasting_engine/" "libraries/")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/" (21531 40762 964433 70000) "COMP1405/" "PHYS1901a/" "./" "textbooks.org" "../" "PHIL2003/" "MATH1007d/" "MATH1800a/")
+
+ ("/home/sotosgc/.config/dwb/userscripts/" (21528 61759 315732 936000) "./" "extension_loader.js" "youtube-mplayer.js" "autostart/" "../")
+
+ ("/home/sotosgc/.config/dwb/" (21528 52274 842977 919000) "userscripts/" "keys" "./" "default/" "searchengines" "../" "settings" "mimetypes")
+
+ ("/home/sotosgc/.config/" (21528 34510 683186 589000) "tracker/" "Trolltech.conf" "./" "gtk-3.0/" "user-dirs.dirs" "Clementine/" "eog/" "user-dirs.locale" "evolution/" "htop/" "kactivitymanagerdrc" "gtk-2.0/" "gnome-control-center/" "gconf/" "menus/" "totem/" "openmw/" "gnome-session/" "autostart/" "../" "goa-1.0/" "enchant/" "chromium/" "epiphany/" "dwb/" "marlin/" "ibus/" "vlc/" "dconf/" "nautilus/" "banshee-1/" "transmission/" "pulse/" "akonadi/")
+
+ ("/home/sotosgc/Games/Katawa Shoujo-linux-x86/" (21523 40710 456516 833000) "common/" "./" "lib/" "Katawa Shoujo.py" "Katawa Shoujo.sh" "renpy/" "../" "Game Manual.pdf" "game/" "LICENSE.txt" "ks.png")
+
+ ("/home/sotosgc/Games/" (21510 38797 663441 82000) "./" "forge-1.5.24/" "forge-1.5.20/" "../" "Katawa Shoujo-linux-x86/" "Minecraft.jar")
+
+ ("/home/sotosgc/Desktop/" (21523 40910 569837 966000) "./" "../" "The Elder Scrolls III Morrowind.desktop" "Katawa_Shoujo.desktop" "Steam.desktop")
+
+ ("/home/sotosgc/Documents/Carleton Fall 2014/COMP1405/Processing_Files/test/" (21520 43091 763347 959000) "./" "test.pde" "sketch.properties" "../")
+
+ ("/home/sotosgc/Music/" (21510 37767 546771 50000) "files/" "./" "scrap.xspf" "favourite albums.xspf" "../" "temagami 2014.xspf" "dfsfsdfsddfxcxcxcxxc.xspf" "Hiphop.xspf" "asdfasdfasdfasdfasdfasdfasdf.xspf" "punk.xspf" "ska punk.xspf" "temagami 2.xspf")
+
+ ("/home/sotosgc/Games/Katawa Shoujo-linux-x86/game/" (20902 32498 0 0) "script-a1-tuesday.rpyc" "ui_code.rpyc" "ui-strings.rpyc" "ui_settings.rpyc" "imachine_replay.rpyc" "script-a2-shizune_FR.rpyc" "script-a3-hanako.rpyc" "./" "ui_labels.rpyc" "script-a4-emi_FR.rpyc" "script-a1-friday_FR.rpyc" "script-a3-emi.rpyc" "script-a1-thursday_FR.rpyc" "script-a1-sunday.rpyc" "script-a1-sunday_FR.rpyc" "script-a1-thursday.rpyc" "script-a4-shizune.rpyc" "script-a3-rin_FR.rpyc" "_ui_early.rpyc" "script-a2-rin.rpyc" "script-a4-hanako.rpyc" "script-a1-monday.rpyc" "data.rpa" "script-a4-lilly.rpyc" "script-a3-emi_FR.rpyc" "../" "script-a2-hanako.rpyc" "script-a2-hanako_FR.rpyc" "script-a2-lilly_FR.rpyc" "ui_ingamemenu.rpyc" "script-a3-shizune.rpyc" "ui_i18n.rpyc" "script-a2-lilly.rpyc" "script-a4-hanako_FR.rpyc" "script-a4-shizune_FR.rpyc" "script-a2-rin_FR.rpyc" "script-a1-tuesday_FR.rpyc" "imachine.rpyc" "script-a3-rin.rpyc" "ui-strings_FR.rpyc" "script-a4-rin.rpyc" "script-a4-emi.rpyc" "script-a1-wednesday.rpyc" "script-a3-hanako_FR.rpyc" "script-a1-wednesday_FR.rpyc" "script-a1-saturday_FR.rpyc" "script-a2-shizune.rpyc" "script-a4-rin_FR.rpyc" "script-a1-saturday.rpyc" "script-a1-monday_FR.rpyc" "script-a2-emi.rpyc" "script-a4-lilly_FR.rpyc" "script-a1-friday.rpyc" "script_version.rpyc" "presplash.png" "langinit/" "script-a3-shizune_FR.rpyc" "script-a3-lilly.rpyc" "script-a3-lilly_FR.rpyc" "script-a2-emi_FR.rpyc" "bytecode.rpyb")
+
+ ("/home/sotosgc/Music/files/" (21498 47212 279430 496000) "Pinkerton/" "Creedence Clearwater Revival/" "Pro Era - Peep The Aprocalypse/" "2008 - Weezer (Red Album) Deluxe Edition/" "Two Door Cinema Club - Tourist History (2010) MP3 320 kbps/" "Neutral Milk Hotel - 1998 - In The Aeroplane Over The Sea [V0]/" "Labor Days/" "KnifeMan/" "Joy division - Closer/" "The Tragically Hip - Phantom Power/" "Tragically Hip - Fully Completely (TPB)/" "The Night's Gambit/" "andrew jackson jihad - people that can eat people are the luckiest people in the world/" "Bombay_Bicycle_Club-A_Different_Kind_Of_Fix-2011-SiRE/" "Aesop Rock/" "The Suburbs/" "The Stranglers-The Very Best Of The Stranglers (mp3) {tre123wor}/" "ratatat/" "Queens Of The Stone Age - Songs For The Deaf/" "Love Will Tear Us Apart - 1980/" "Genesis - Nursery Cryme 1971 - Remastered - 320Kbps # Drbn/" "The Underachievers - Indigioism/" "AWOLNATION - Sail.mp3" "Dead Kennedys/" "The Wombats Proudly Present... This Modern Glitch/" "Adele - 21[Limited Edition][2010]/" "The Killers Discography/" "Flatbush Zombies - DRUGS (DatPiff.com)/" "Public Enemy - How You Sell Soul To A Soulless People Who Sold Their Soul (2007) - Rap.www.lokotorrents.com/" "Take a Walk - Single/" "Rise Against - Appeal To Reason (2008)/" "The.Smiths.–.The.Very.Best.[Rock.Alternativo].Zonde/" "Franz Ferdinand - Tonight: Franz Ferdinand [mp3-vbr-2009]/" "The Weakerthans/" "Death Grips - Exmilitary/" "Muse/" "The Best of The Ramones [320 KBPS]/" "Death Grips - niggas on the moon v.2/" "Muse - Black Holes And Revelations_/" "Jimmy Eat World - Invented [2010-MP3-Cov][MJN]/" "Black Holes And Revelations/" "The Black Keys Fever EP (2014) MP3@320kbps Beolab1700/" "Sublime/" "Weezer - Island In The Sun (Version 1).avi" "Red Hot Chili Peppers Discography (1984-2011) [iTunes-Rip] {tL}/" "The Strokes - Is This It [192kbps]/" "Death Grips/" "BetterOffDEAD/" "Operation_ Doomsday/" "Fever to Tell/" "Dropkick Murphys - I'm Shipping Up To Boston MP3 320kb:s By TheCaptain/" "Brianstorm/" "The Sufferer and the Witness/" "Black Milk - No Poison No Paradise (Deluxe Edition) 2013 320kbps CBR MP3 [VX] [P2PDL]/" "Bob Marley & The Wailers - Legend [30th Ann Deluxe Edition] (2014) MP3@320kbps Beolab1700/" "Muse - The Resistance [mp3-320-2009]/" "Talking Heads - The Best Of [MP3 @ 320](oan)/" "01. Mr. Blue Sky.mp3" "Biggie_Smalls-Best_Of_Biggie_Smalls-2001-REV/" "Blue Album [Deluxe Edition]/" "Kanye West - Yeezus (RapGodFathers.info)/" "Gza - Liquid Swords/" "The Velvet Underground & Nico/" "Kanye West - The College Dropout [Remastered] (2004) mp3@320 vtwin88cube/" "Arctic Monkeys - Do I Wanna Know_.mp3" "Franz Ferdinand/" "Metric - Synthetica (2012)/" "Gin & Juice.mp3" "The Strokes - Angles (2011)/" "Wu-Tang Clan/" "Apathy - Connecticut Casual - 2014/" "Foo Fighters - Greatest Hits CDRip 2009 [Cov+CD][Bubanee]/" "Surfer Rosa-Come on Pilgrim/" "Kendrick_Lamar-Good_Kid_M.A.A.D_City-(Deluxe_Edition)-(RapGodFathers.info)/" "Elephant/" "U2 - Joshua Tree/" "Fleet Foxes - Fleet Foxes/" "Moby - Extreme Ways.mp3" "Arctic Monkeys - Why'd You Only Call Me When You're High_.mp3" "Death Grips - 2012 - The Money Store/" "Joel. (aka MaG) - freedom/" "Good News For People Who Love Bad News/" "Operation Ivy - Energy/" "The Rolling Stones The Ultimate Best Of 2011 Remastered 320 Kbps/" "NWA - Straight Outta Compton (Remastered)-((InfamousFlip.com))/" "Jethro Tull - Aqualung (1971) {Original} [EAC - Lame V0]/" "Aesop Rock - Skelethon (2012)/" "AJJ_ChristmasIsland/" "Reflektor/" "Daft Punk - Discovery/" "Jimi Hendrix Experience/" "Section.80/" "City and Colour/" "Sun Giant EP/" "Madvillain - Madvillainy/" "Sam Roberts - We Were Born In A Flame/" "Miike Snow [Deluxe Edition]/" "Arcade Fire - Funeral (2004) MP3 V0 CDrip/" "Busta Rhymes vs RHCP - Dangerous ('Hey oh' mix)-0I7U_wmuxB4.mp4" "The Rolling Stones/" "The Shins - Port of Morrow (2012)/" "Death Grips - NO LOVE DEEP WEB/" "Led_Zeppelin-Physical_Graffiti-2CD-(Retail)-1975-HHI/" "We Were Dead Before the Ship Even Sank/" "Wu-Tang Clan- Enter The Wu-Tang (36 Chambers) [@320kbps]/" "Ratatat-LP4/" "shiny/" "Wu-Tang Clan Discography @ 320 (22 Albums)(RAP)(by dragan09)/" "Rage_Against_The_Machine-Rage_Against_The_Machine-(Retail)-1992-HHI/" "Aint No Rest For The Wicked.mp3" "40 oz. to Freedom/" "Fleet Foxes - Helplessness Blues [mp3-320-2011]/" "../" "./")
+
+ ("/home/" (21391 41348 979994 318000) "./" "lost+found/" "../" "sotosgc/")
+
+ ("/home/sotosgc/.forge/decks/" (21418 10009 696455 468000) "scheme/" "./" "sealed/" "constructed/" "../" "commander/" "draft/" "planar/" "winston/")
+
+ ("/home/sotosgc/.forge/" (21436 56574 533981 457000) "./" "quest/" "gauntlet/" "../" "forge.log" "decks/" "preferences/")
+
+ ("/home/sotosgc/.emacs.d/elpa/" (21402 29250 329738 641000) "./" "../" "multiple-cursors-readme.txt" "archives/" "multiple-cursors-20140527.359/")
+
+ ("/home/sotosgc/.emacs.d/elpa/multiple-cursors-20140527.359/" (21402 29250 156405 318000) "mc-mark-more.el" "./" "mc-mark-more.elc" "mc-separate-operations.elc" "mc-mark-pop.el" "multiple-cursors.el" "mc-separate-operations.el" "rectangular-region-mode.elc" "mc-edit-lines.elc" "mc-cycle-cursors.elc" "../" "multiple-cursors.elc" "multiple-cursors-core.el" "multiple-cursors-pkg.elc" "multiple-cursors-pkg.el" "multiple-cursors-core.elc" "multiple-cursors-autoloads.el" "rectangular-region-mode.el" "mc-cycle-cursors.el" "mc-mark-pop.elc" "mc-edit-lines.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

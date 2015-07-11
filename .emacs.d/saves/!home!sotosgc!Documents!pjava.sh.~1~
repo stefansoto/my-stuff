@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /tmp/processing
+mkdir /tmp/processing
+/home/euler/Desktop/processing-2.0b8/processing-java --output=/tmp/processing/ --force --run --sketch=$1

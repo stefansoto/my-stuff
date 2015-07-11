@@ -1,0 +1,15 @@
+List of useful commands to memorize within emacs
+* text manipulation
+remember your m-f / m-b keys
+C-c g 'goto-line
+C-c c 'comment region
+C-c u 'uncomment region
+
+* buffer manipulation
+C-x k <buffername>     this kills the buffer
+M-n / M-p 'next/previous buffer
+
+* modes
+C-c t 'dirtree
+C-c d 'dired
+C-c f 'visual line mode (text wrap)

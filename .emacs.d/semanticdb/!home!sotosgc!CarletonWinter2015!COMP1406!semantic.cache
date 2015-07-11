@@ -1,0 +1,61 @@
+;; Object COMP1406/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "COMP1406/"
+  :tables
+  (list
+    (semanticdb-table "Ball.java"
+      :major-mode 'jde-mode
+      :tags 
+        '( ("Ball" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("x" variable (:type "int") (reparse-symbol class_member_declaration) [23 29])
+                    ("y" variable (:type "int") (reparse-symbol class_member_declaration) [32 38])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [67 80]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [43 139]))                  
+                :type "class")
+                nil [1 141]))          
+      :file "Ball.java"
+      :pointmax 141
+      :fsize 149
+      :lastmodtime '(21739 18404 308175 336000)
+      :unmatched-syntax nil)
+    (semanticdb-table "ball.cpp"
+      :major-mode 'c++-mode
+      :tags 
+        '( ("iostream" include (:system-flag t) nil [1 20])
+            ("std" using (:type ("std" type
+                 (:prototype t
+                  :type "namespace")
+                  nil nil)) nil [21 41])
+            ("ball" type
+               (:members 
+                  ( ("public" label nil (reparse-symbol classsubparts) [57 64])
+                    ("x" variable (:type "int") (reparse-symbol classsubparts) [67 73])
+                    ("y" variable (:type "int") (reparse-symbol classsubparts) [76 82]))                  
+                :type "class")
+                nil [43 85])
+            ("moveBall" function
+               (:arguments 
+                  ( ("b" variable
+                       (:pointer 1
+                        :type ("ball" type (:type "class") nil nil))
+                        (reparse-symbol arg-sub-list) [101 109]))                  
+                :type "void")
+                nil [87 125])
+            ("main" function (:type "int") nil [127 262]))          
+      :file "ball.cpp"
+      :pointmax 262
+      :fsize 261
+      :lastmodtime '(21739 18379 171508 48000)
+      :unmatched-syntax nil))
+  :file "!home!sotosgc!CarletonWinter2015!COMP1406!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
