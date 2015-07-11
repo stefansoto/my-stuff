@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	<cell x="0.20738" y="0.0" w="0.59336" h="0.30098" sel="FIELD_1">
+		<doc>FIELD_1</doc>
+	</cell>
+	<cell x="0.0" y="0.0" w="0.20738" h="0.64276" sel="REPORT_STACK">
+		<doc>REPORT_STACK</doc>
+		<doc>REPORT_COMBAT</doc>
+		<doc>REPORT_LOG</doc>
+	</cell>
+	<cell x="0.80148" y="0.0" w="0.19852" h="0.46695" sel="CARD_DETAIL">
+		<doc>CARD_DETAIL</doc>
+	</cell>
+	<cell x="0.80148" y="0.46695" w="0.19852" h="0.55415" sel="CARD_PICTURE">
+		<doc>CARD_PICTURE</doc>
+	</cell>
+	<cell x="0.0" y="0.64276" w="0.20738" h="0.37834" sel="REPORT_MESSAGE">
+		<doc>REPORT_MESSAGE</doc>
+		<doc>CARD_ANTES</doc>
+		<doc>BUTTON_DOCK</doc>
+	</cell>
+	<cell x="0.20738" y="0.7398" w="0.59336" h="0.28129" sel="HAND_0">
+		<doc>HAND_0</doc>
+	</cell>
+	<cell x="0.20738" y="0.30098" w="0.59336" h="0.43882" sel="FIELD_0">
+		<doc>FIELD_0</doc>
+	</cell>
+</layout>

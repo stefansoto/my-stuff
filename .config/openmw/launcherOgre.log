@@ -1,0 +1,71 @@
+16:14:03: Creating resource group General
+16:14:03: Creating resource group Internal
+16:14:03: Creating resource group Autodetect
+16:14:03: SceneManagerFactory for type 'DefaultSceneManager' registered.
+16:14:03: Registering ResourceManager for type Material
+16:14:03: Registering ResourceManager for type Mesh
+16:14:03: Registering ResourceManager for type Skeleton
+16:14:03: MovableObjectFactory for type 'ParticleSystem' registered.
+16:14:03: ArchiveFactory for archive type FileSystem registered.
+16:14:03: ArchiveFactory for archive type Zip registered.
+16:14:03: ArchiveFactory for archive type EmbeddedZip registered.
+16:14:03: DDS codec registering
+16:14:03: FreeImage version: 3.17.0
+16:14:03: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+16:14:03: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+16:14:03: Registering ResourceManager for type HighLevelGpuProgram
+16:14:03: Registering ResourceManager for type Compositor
+16:14:03: MovableObjectFactory for type 'Entity' registered.
+16:14:03: MovableObjectFactory for type 'Light' registered.
+16:14:03: MovableObjectFactory for type 'BillboardSet' registered.
+16:14:03: MovableObjectFactory for type 'ManualObject' registered.
+16:14:03: MovableObjectFactory for type 'BillboardChain' registered.
+16:14:03: MovableObjectFactory for type 'RibbonTrail' registered.
+16:14:03: *-*-* OGRE Initialising
+16:14:03: *-*-* Version 1.9.0 (Ghadamon)
+16:14:03: Loading library /usr/lib64/OGRE/RenderSystem_GL.so
+16:14:03: Installing plugin: GL RenderSystem
+16:14:03: OpenGL Rendering Subsystem created.
+16:14:03: Plugin successfully installed
+16:14:03: Loading library /usr/lib64/OGRE/Plugin_CgProgramManager.so
+16:14:03: Installing plugin: Cg Program Manager
+16:14:03: Plugin successfully installed
+16:14:03: Loading library /usr/lib64/OGRE/Plugin_ParticleFX.so
+16:14:03: Installing plugin: ParticleFX
+16:14:03: Particle Emitter Type 'Point' registered
+16:14:03: Particle Emitter Type 'Box' registered
+16:14:03: Particle Emitter Type 'Ellipsoid' registered
+16:14:03: Particle Emitter Type 'Cylinder' registered
+16:14:03: Particle Emitter Type 'Ring' registered
+16:14:03: Particle Emitter Type 'HollowEllipsoid' registered
+16:14:03: Particle Affector Type 'LinearForce' registered
+16:14:03: Particle Affector Type 'ColourFader' registered
+16:14:03: Particle Affector Type 'ColourFader2' registered
+16:14:03: Particle Affector Type 'ColourImage' registered
+16:14:03: Particle Affector Type 'ColourInterpolator' registered
+16:14:03: Particle Affector Type 'Scaler' registered
+16:14:03: Particle Affector Type 'Rotator' registered
+16:14:03: Particle Affector Type 'DirectionRandomiser' registered
+16:14:03: Particle Affector Type 'DeflectorPlane' registered
+16:14:03: Plugin successfully installed
+16:14:03: Particle Emitter Type 'Nif' registered
+16:14:03: Particle Affector Type 'GrowFade' registered
+16:14:03: Particle Affector Type 'Gravity' registered
+16:14:08: *-*-* OGRE Shutdown
+16:14:08: Unregistering ResourceManager for type Compositor
+16:14:08: Unregistering ResourceManager for type Skeleton
+16:14:08: Unregistering ResourceManager for type Mesh
+16:14:08: Unregistering ResourceManager for type HighLevelGpuProgram
+16:14:08: Uninstalling plugin: ParticleFX
+16:14:08: Plugin successfully uninstalled
+16:14:08: Unloading library /usr/lib64/OGRE/Plugin_ParticleFX.so
+16:14:08: Uninstalling plugin: Cg Program Manager
+16:14:08: Plugin successfully uninstalled
+16:14:08: Unloading library /usr/lib64/OGRE/Plugin_CgProgramManager.so
+16:14:08: Uninstalling plugin: GL RenderSystem
+16:14:08: ******************************
+*** Stopping GLX Subsystem ***
+******************************
+16:14:08: Plugin successfully uninstalled
+16:14:08: Unloading library /usr/lib64/OGRE/RenderSystem_GL.so
+16:14:08: Unregistering ResourceManager for type Material

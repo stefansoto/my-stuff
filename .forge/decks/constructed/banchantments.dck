@@ -1,0 +1,32 @@
+[metadata]
+Name=banchantments
+[Main]
+1 AEtherling|DGM
+4 Banishing Light|JOU
+1 Breeding Pool|GTC
+4 Courser of Kruphix|BNG
+4 Detention Sphere|RTR
+4 Eidolon of Blossoms|JOU
+2 Elspeth, Sun's Champion|THS
+4 Font of Fertility|JOU
+4 Forest|THS|1
+3 Kiora, the Crashing Wave|BNG
+4 Mana Bloom|RTR
+1 Nylea's Presence|THS
+2 Plains|THS|1
+3 Sphere of Safety|RTR
+3 Supreme Verdict|RTR
+4 Temple Garden|RTR
+4 Temple of Enlightenment|BNG
+4 Temple of Mystery|THS
+4 Temple of Plenty|BNG
+[Sideboard]
+1 Deicide|JOU
+1 Dispel|RTR
+2 Gainsay|THS
+2 Jace, Memory Adept|M14
+1 Mutavault|M14
+3 Negate|M14
+3 Nyx-Fleece Ram|JOU
+1 Sphere of Safety|RTR
+1 Supreme Verdict|RTR

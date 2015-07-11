@@ -1,0 +1,35 @@
+[metadata]
+Name=esper deathblade
+[Main]
+1 Batterskull|NPH
+4 Brainstorm|DDJ
+1 Counterspell|DD2
+4 Deathrite Shaman|RTR
+4 Flooded Strand|ONS
+4 Force of Will|ALL
+4 Hymn to Tourach|V13
+3 Liliana of the Veil|ISD
+2 Marsh Flats|ZEN
+4 Polluted Delta|ONS
+4 Ponder|M12
+3 Scrubland|3ED
+1 Snapcaster Mage|ISD
+2 Spell Pierce|ZEN
+4 Stoneforge Mystic|WWK
+4 Swords to Plowshares|V13
+1 Tropical Island|3ED
+3 True-Name Nemesis|C13
+2 Tundra|3ED
+1 Umezawa's Jitte|BOK
+4 Underground Sea|3ED
+[Sideboard]
+1 Detention Sphere|RTR
+2 Ethersworn Canonist|MMA
+1 Flusterstorm|COM
+2 Meddling Mage|ARB
+1 Notion Thief|DGM
+1 Pithing Needle|RTR
+3 Rest in Peace|RTR
+2 Supreme Verdict|RTR
+1 Vendilion Clique|MMA
+1 Zealous Persecution|DDK

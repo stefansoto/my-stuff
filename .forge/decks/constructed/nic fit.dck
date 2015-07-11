@@ -1,0 +1,42 @@
+[metadata]
+Name=nic fit
+[Main]
+1 Abrupt Decay|RTR
+3 Academy Rector|UDS
+2 Bayou|3ED
+4 Brainstorm|MMQ
+4 Cabal Therapy|JUD
+1 Eternal Witness|MMA
+3 Forest|THS|1
+4 Gitaxian Probe|NPH
+2 Innocent Blood|ODY
+2 Island|THS|1
+2 Jace, the Mind Sculptor|V13
+4 Living Wish|JUD
+2 Misty Rainforest|ZEN
+1 Omniscience|M13
+2 Pernicious Deed|APC
+2 Phyrexian Tower|USG
+1 Plains|THS|1
+2 Savannah|3ED
+2 Sensei's Divining Top|CHK
+2 Swamp|THS|1
+2 Thoughtseize|THS
+1 Thrun, the Last Troll|MBS
+1 Tropical Island|3ED
+4 Verdant Catacombs|ZEN
+4 Veteran Explorer|WTH
+2 Windswept Heath|ONS
+[Sideboard]
+2 Abrupt Decay|RTR
+1 Academy Rector|UDS
+1 Cavern of Souls|AVR
+1 Emrakul, the Aeons Torn|ROE
+1 Eternal Witness|MMA
+2 Ethersworn Canonist|MMA
+1 Gaddock Teeg|LRW
+1 Harmonic Sliver|TSP
+1 Karakas|LEG
+1 Phyrexian Tower|USG
+1 Thragtusk|M13
+1 Thrun, the Last Troll|MBS

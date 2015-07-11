@@ -1,0 +1,36 @@
+[metadata]
+Name=35 land.dec
+[Main]
+1 Bojuka Bog|WWK
+4 Crop Rotation|ULG
+2 Dark Depths|CSP
+4 Exploration|USG
+1 Forest|KTK|1
+4 Gamble|USG
+1 Ghost Quarter|ISD
+1 Glacial Chasm|ICE
+4 Grove of the Burnwillows|FUT
+1 Karakas|LEG
+4 Life from the Loam|MMA
+2 Manabond|EXO
+3 Maze of Ith|DRK
+1 Misty Rainforest|ZEN
+4 Mox Diamond|STH
+3 Punishing Fire|ZEN
+4 Rishadan Port|MMQ
+3 Taiga|3ED
+1 The Tabernacle at Pendrell Vale|LEG
+4 Thespian's Stage|GTC
+2 Tranquil Thicket|ONS
+1 Verdant Catacombs|ZEN
+4 Wasteland|TMP
+1 Wooded Foothills|KTK
+[Sideboard]
+4 Krosan Grip|MMA
+1 Pithing Needle|RTR
+2 Primeval Titan|M12
+1 Punishing Fire|ZEN
+1 Seismic Assault|10E
+4 Sphere of Resistance|EXO
+1 Worm Harvest|MMA
+1 Zuran Orb|ICE

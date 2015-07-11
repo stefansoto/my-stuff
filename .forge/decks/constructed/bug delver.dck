@@ -1,0 +1,39 @@
+[metadata]
+Name=bug delver
+[Main]
+3 Abrupt Decay|RTR
+2 Bayou|3ED
+4 Brainstorm|MMQ
+2 Dark Confidant|RAV
+3 Daze|NMS
+4 Deathrite Shaman|RTR
+4 Delver of Secrets|ISD
+1 Disfigure|ZEN
+3 Force of Will|ALL
+3 Hymn to Tourach|FEM|1
+2 Liliana of the Veil|ISD
+3 Misty Rainforest|ZEN
+4 Polluted Delta|ONS
+4 Ponder|M12
+1 Spell Pierce|ZEN
+3 Tarmogoyf|MMA
+2 Thoughtseize|THS
+1 Tropical Island|3ED
+2 True-Name Nemesis|C13
+3 Underground Sea|3ED
+2 Verdant Catacombs|ZEN
+4 Wasteland|TMP
+[Sideboard]
+1 Abrupt Decay|RTR
+1 Disfigure|ZEN
+1 Envelop|JUD
+1 Flusterstorm|COM
+1 Force of Will|ALL
+2 Golgari Charm|RTR
+1 Krosan Grip|MMA
+1 Liliana of the Veil|ISD
+1 Maelstrom Pulse|MMA
+1 Spell Pierce|ZEN
+2 Surgical Extraction|NPH
+1 Sylvan Library|5ED
+1 Vendilion Clique|MMA

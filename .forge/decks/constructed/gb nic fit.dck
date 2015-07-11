@@ -1,0 +1,40 @@
+[metadata]
+Name=gb nic fit
+[Main]
+4 Abrupt Decay|RTR
+4 Bayou|LEA
+4 Cabal Therapy|JUD
+1 Courser of Kruphix|BNG
+1 Deathrite Shaman|RTR
+1 Dryad Arbor|FUT
+1 Eternal Witness|5DN
+4 Forest|LEA|1
+2 Grave Titan|M12
+4 Green Sun's Zenith|MBS
+3 Hymn to Tourach|FEM|4
+3 Liliana of the Veil|ISD
+1 Maelstrom Pulse|MMA
+2 Misty Rainforest|ZEN
+3 Pernicious Deed|APC
+1 Phyrexian Tower|USG
+2 Scavenging Ooze|COM
+2 Sensei's Divining Top|CHK
+1 Skeletal Scrying|ODY
+3 Swamp|LEA|1
+1 Thragtusk|M13
+1 Titania, Protector of Argoth|C14
+2 Verdant Catacombs|ZEN
+4 Veteran Explorer|WTH
+4 Windswept Heath|KTK
+1 Wooded Foothills|KTK
+[Sideboard]
+1 Darkblast|RAV
+1 Dismember|NPH
+2 Engineered Plague|ULG
+1 Gaddock Teeg|LRW
+2 Golgari Charm|RTR
+1 Hymn to Tourach|V13
+1 Kitchen Finks|MMA
+4 Leyline of the Void|GPT
+1 Maelstrom Pulse|MMA
+1 Reclamation Sage|M15

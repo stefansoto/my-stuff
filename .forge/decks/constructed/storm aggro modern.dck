@@ -1,0 +1,30 @@
+[metadata]
+Name=storm aggro modern
+[Main]
+4 Arid Mesa|ZEN
+4 Burning-Tree Emissary|GTC
+4 Desperate Ritual|MMA
+4 Gitaxian Probe|NPH
+4 Goblin Bushwhacker|ZEN
+4 Goblin Guide|ZEN
+3 Heartlash Cinder|EVE
+4 Lightning Bolt|M11
+1 Lightning Mauler|AVR
+4 Manamorphose|MMA
+6 Mountain|THS|1
+2 Priest of Urabrask|NPH
+1 Pyretic Ritual|M11
+4 Scalding Tarn|ZEN
+4 Simian Spirit Guide|PLC
+3 Storm Entity|FUT
+4 Street Wraith|MMA
+[Sideboard]
+3 Dangerous Wager|AVR
+2 Forked Bolt|ROE
+1 Grafdigger's Cage|DKA
+1 Legion Loyalist|GTC
+2 Pillar of Flame|AVR
+1 Pyretic Ritual|M11
+2 Shattering Spree|GPT
+2 Sulfur Elemental|PLC
+1 Torpor Orb|NPH

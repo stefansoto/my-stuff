@@ -1,0 +1,40 @@
+[metadata]
+Name=bug midrange
+[Main]
+4 Abrupt Decay|RTR
+1 Breeding Pool|GTC
+1 Darkslick Shores|SOM
+1 Dismember|NPH
+1 Forest|LEA|1
+2 Inquisition of Kozilek|ROE
+2 Island|LEA|1
+3 Liliana of the Veil|ISD
+2 Maelstrom Pulse|ARB
+3 Misty Rainforest|ZEN
+2 Overgrown Tomb|RTR
+4 Polluted Delta|KTK
+4 Serum Visions|5DN
+3 Snapcaster Mage|ISD
+3 Stubborn Denial|KTK
+2 Swamp|LEA|1
+4 Tarmogoyf|FUT
+3 Tasigur, the Golden Fang|FRF
+2 Tectonic Edge|WWK
+2 Thought Scour|DDM
+2 Thoughtseize|THS
+2 Thragtusk|M13
+4 Verdant Catacombs|ZEN
+2 Watery Grave|GTC
+1 Woodland Cemetery|ISD
+[Sideboard]
+2 Countersquall|CFX
+1 Creeping Corrosion|MBS
+1 Darkblast|RAV
+1 Deathmark|M12
+1 Engineered Explosives|5DN
+2 Feed the Clan|KTK
+1 Golgari Charm|RTR
+1 Nihil Spellbomb|SOM
+2 Sower of Temptation|LRW
+1 Thoughtseize|LRW
+2 Unravel the AEther|BNG

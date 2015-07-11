@@ -1,0 +1,25 @@
+[metadata]
+Name=mb pauper
+[Main]
+2 Barren Moor|ONS
+1 Bojuka Bog|WWK
+4 Chittering Rats|DST
+4 Corrupt|M14
+3 Crypt Rats|7ED
+4 Cuombajj Witches|CHR
+3 Dead Weight|ISD
+2 Echoing Decay|DST
+4 Gray Merchant of Asphodel|THS
+1 Liliana's Specter|M11
+4 Phyrexian Rager|MBS
+4 Sign in Blood|M13
+19 Swamp|THS|1
+2 Tendrils of Corruption|M10
+3 Victim of Night|ISD
+[Sideboard]
+1 Dead Weight|ISD
+2 Doom Blade|M14
+4 Geth's Verdict|NPH
+2 Nihil Spellbomb|SOM
+4 Rancid Earth|TOR
+2 Spinning Darkness|WTH

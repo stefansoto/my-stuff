@@ -1,0 +1,35 @@
+[metadata]
+Name=legacy jund
+[Main]
+3 Abrupt Decay|RTR
+3 Badlands|3ED
+2 Bayou|3ED
+3 Bloodbraid Elf|PC2
+4 Bloodstained Mire|ONS
+4 Dark Confidant|MMA
+4 Deathrite Shaman|RTR
+1 Forest|THS
+3 Hymn to Tourach|V20
+1 Life from the Loam|MMA
+4 Lightning Bolt|PD2
+4 Liliana of the Veil|ISD
+1 Maelstrom Pulse|MMA
+1 Mountain|THS
+1 Swamp|THS
+1 Sylvan Library|CM1
+1 Taiga|3ED
+4 Tarmogoyf|MMA
+4 Thoughtseize|THS
+4 Verdant Catacombs|ZEN
+4 Wasteland|TMP
+3 Wooded Foothills|ONS
+[Sideboard]
+1 Ancient Grudge|ISD
+1 Bloodbraid Elf|PC2
+1 Chains of Mephistopheles|LEG
+3 Duress|M14
+3 Engineered Plague|7ED
+1 Nihil Spellbomb|SOM
+1 Pithing Needle|RTR
+3 Pyroblast|5ED
+1 Umezawa's Jitte|BOK

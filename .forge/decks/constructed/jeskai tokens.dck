@@ -1,0 +1,30 @@
+[metadata]
+Name=jeskai tokens
+[Main]
+3 Battlefield Forge|M15
+2 Dig Through Time|KTK
+3 Flooded Strand|KTK
+3 Goblin Rabblemaster|M15
+4 Hordeling Outburst|KTK
+2 Island|KTK|1
+4 Jeskai Ascendancy|KTK
+4 Jeskai Charm|KTK
+2 Mana Confluence|JOU
+4 Monastery Swiftspear|KTK
+2 Mystic Monastery|KTK
+2 Plains|KTK|1
+4 Raise the Alarm|M15
+4 Retraction Helix|BNG
+3 Seeker of the Way|KTK
+3 Shivan Reef|M15
+3 Springleaf Drum|BNG
+4 Stoke the Flames|M15
+2 Temple of Epiphany|JOU
+2 Temple of Triumph|THS
+[Sideboard]
+1 Glare of Heresy|THS
+3 Gods Willing|THS
+3 Magma Spray|JOU
+4 Mantis Rider|KTK
+2 Negate|M15
+2 Oppressive Rays|M15

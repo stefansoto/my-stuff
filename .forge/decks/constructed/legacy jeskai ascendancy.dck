@@ -1,0 +1,33 @@
+[metadata]
+Name=legacy jeskai ascendancy
+[Main]
+2 Arid Mesa|ZEN
+4 Brainstorm|MMQ
+3 Faerie Conclave|10E
+4 Fatestitcher|ALA
+4 Flooded Strand|KTK
+4 Force of Will|ALL
+4 Gitaxian Probe|NPH
+1 Island|KTK|1
+4 Jeskai Ascendancy|KTK
+2 Lightning Bolt|M11
+1 Plains|KTK|1
+4 Ponder|M12
+2 Pyroblast|5ED
+4 Scalding Tarn|ZEN
+2 Spell Pierce|ZEN
+3 Swords to Plowshares|ICE
+4 Treasure Cruise|KTK
+2 Tundra|3ED
+2 Volcanic Island|3ED
+4 Young Pyromancer|M14
+[Sideboard]
+1 Blue Elemental Blast|4ED
+1 Council's Judgment|CNS
+1 Electrickery|RTR
+1 Flusterstorm|COM
+3 Grafdigger's Cage|DKA
+3 Kor Firewalker|WWK
+2 Meddling Mage|ARB
+1 Pyroblast|5ED
+2 Wear // Tear|DGM

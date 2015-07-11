@@ -1,0 +1,631 @@
+Installing crash catcher
+OpenMW version 0.36.0
+Loading config file: /home/sotosgc/.config/openmw/openmw.cfg... done.
+Loading config file: /etc/openmw/openmw.cfg... done.
+Using default (English) font encoding.
+Data dir /home/sotosgc/.wine/drive_c/Program Files (x86)/Steam/steamapps/common/Morrowind/Data Files
+Data dir /home/sotosgc/My Games/FatigueandMagickav1.2
+Data dir /usr/share/games/openmw/data
+Data dir /home/sotosgc/.local/share/openmw/data
+Adding BSA archive /home/sotosgc/.wine/drive_c/Program Files (x86)/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
+Adding BSA archive /home/sotosgc/.wine/drive_c/Program Files (x86)/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
+Adding BSA archive /home/sotosgc/.wine/drive_c/Program Files (x86)/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
+Sound output: OpenAL
+Sound decoder: FFmpeg
+Enumerated output devices:
+  Built-in Audio Analog Stereo
+  Built-in Audio Digital Stereo (HDMI)
+Opened "Built-in Audio Analog Stereo"
+Loading content file Morrowind.esm
+Loading content file FatigueandMagickav1_1.ESP
+Playing music/explore/mx_explore_7.mp3
+Playing Music/Special/morrowind title.mp3
+Changing to interior
+loading cell Punabi
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\i\in_t_crystal_01.nif
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle 8.mp3
+NIFSkeletonLoader: Warn: Unhandled NiPathController from node Plane14 in meshes\e\magic_cast_myst.nif
+Unloading cell
+loading cell 3, -3
+loading cell 3, -2
+NIFSkeletonLoader: Warn: Unhandled AvoidNode  in meshes\i\in_lava_1024.nif
+loading cell 3, -1
+NIFSkeletonLoader: Warn: Unhandled AvoidNode  in meshes\i\in_lava_oval.nif
+loading cell 4, -3
+loading cell 4, -2
+loading cell 4, -1
+loading cell 5, -3
+loading cell 5, -2
+loading cell 5, -1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell 3, 0
+loading cell 4, 0
+loading cell 5, 0
+Playing music/explore/mx_explore_5.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Sulipund
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Hlaalo Manor
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Guild of Mages
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, South Wall Cornerclub
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Guild of Mages
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Eight Plates
+Playing music/battle/mw battle 7.mp3
+NIFSkeletonLoader: Warn: Unhandled NiPathController from node Plane04a in meshes\e\magic_hit_rest.nif
+NIFSkeletonLoader: Warn: Unhandled NiPathController from node Plane10a in meshes\e\magic_hit_rest.nif
+NIFSkeletonLoader: Warn: Unhandled NiPathController from node Plane16 in meshes\e\magic_hit_rest.nif
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle2.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/battle/mw battle3.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle5.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/battle/mw battle2.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/explore/mx_explore_5.mp3
+Playing music/battle/mw battle 8.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle1.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/battle/mw battle 8.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/explore/mx_explore_4.mp3
+Playing music/battle/mw battle5.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle 8.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/battle/mw battle3.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/explore/mx_explore_2.mp3
+Playing music/battle/mw battle2.mp3
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/battle/mw battle1.mp3
+Playing music/explore/morrowind title.mp3
+AiFollow: player, 240, -250, 0, 0
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, 0
+loading cell -2, 0
+loading cell -1, -2
+loading cell -1, -1
+loading cell -1, 0
+Playing music/battle/mw battle2.mp3
+Playing music/explore/mx_explore_1.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, 1
+loading cell -2, 1
+loading cell -1, 1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, 2
+loading cell -2, 2
+loading cell -1, 2
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, -1
+loading cell -2, -1
+loading cell -1, -1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, -2
+loading cell -2, -2
+loading cell -1, -2
+Playing music/battle/mw battle1.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -2
+loading cell -4, -1
+loading cell -4, 0
+Playing music/explore/morrowind title.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -3
+loading cell -3, -3
+loading cell -2, -3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -4
+loading cell -3, -4
+loading cell -2, -4
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -1
+loading cell -3, -1
+loading cell -2, -1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -4
+loading cell -3, -4
+loading cell -2, -4
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -1, -4
+loading cell -1, -3
+loading cell -1, -2
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell 0, -4
+loading cell 0, -3
+loading cell 0, -2
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, -4
+loading cell -3, -3
+loading cell -3, -2
+Playing music/explore/mx_explore_1.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell 0, -4
+loading cell 0, -3
+loading cell 0, -2
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -5
+loading cell -1, -5
+loading cell 0, -5
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -2
+loading cell -1, -2
+loading cell 0, -2
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -5
+loading cell -1, -5
+loading cell 0, -5
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -6
+loading cell -1, -6
+loading cell 0, -6
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, -6
+loading cell -3, -5
+loading cell -3, -4
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -3, -7
+loading cell -2, -7
+loading cell -1, -7
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -8
+loading cell -1, -8
+loading cell 0, -8
+loading cell 0, -7
+loading cell 0, -6
+Playing music/explore/mx_explore_7.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell 1, -8
+loading cell 1, -7
+loading cell 1, -6
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Pelagiad, Halfway Tavern
+warning line 59, column 30 (Publican_Pelagiad_Halfway)
+    Names for script Pub_Pelagiad_Halfway do not match
+Unloading cell
+loading cell -1, -8
+loading cell -1, -7
+loading cell -1, -6
+loading cell 0, -8
+loading cell 0, -7
+loading cell 0, -6
+loading cell 1, -8
+loading cell 1, -7
+loading cell 1, -6
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Hlaalo Manor
+Unloading cell
+loading cell -5, -3
+loading cell -5, -2
+loading cell -5, -1
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Balmora, Guild of Mages
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, -4
+loading cell -3, -4
+loading cell -2, -4
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, 5
+loading cell -4, 6
+loading cell -4, 7
+loading cell -3, 5
+loading cell -3, 6
+loading cell -3, 7
+loading cell -2, 5
+loading cell -2, 6
+loading cell -2, 7
+Playing music/explore/morrowind title.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, 11
+loading cell -4, 12
+loading cell -4, 13
+loading cell -3, 11
+loading cell -3, 12
+loading cell -3, 13
+loading cell -2, 11
+loading cell -2, 12
+loading cell -2, 13
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Maar Gan, Tashpi Ashibael's Hut
+Unloading cell
+loading cell -4, 11
+loading cell -4, 12
+loading cell -4, 13
+loading cell -3, 11
+loading cell -3, 12
+loading cell -3, 13
+loading cell -2, 11
+loading cell -2, 12
+loading cell -2, 13
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell Maar Gan, Tashpi Ashibael's Hut
+Unloading cell
+loading cell -4, 11
+loading cell -4, 12
+loading cell -4, 13
+loading cell -3, 11
+loading cell -3, 12
+loading cell -3, 13
+loading cell -2, 11
+loading cell -2, 12
+loading cell -2, 13
+Playing music/explore/mx_explore_3.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, 10
+loading cell -3, 10
+loading cell -2, 10
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\x\ex_dwrv_ruin30.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\x\ex_dwrv_ruin30.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\x\ex_dwrv_ruin30.nif
+NIFSkeletonLoader: Warn: Unhandled NiTextureEffect  in meshes\x\ex_dwrv_ruin30.nif
+Playing music/battle/mw battle 4.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -4, 9
+loading cell -3, 9
+loading cell -2, 9
+Unloading cell
+Unloading cell
+Unloading cell
+loading cell -5, 9
+loading cell -5, 10
+loading cell -5, 11
+Playing Music/Special/MW_Death.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Changing to interior
+loading cell Balmora, Eight Plates
+error line 27, column 27 (The)
+    Unexpected name
+Failed to add start script mana_regen because an exception has been thrown: compile error
+Playing music/explore/mx_explore_5.mp3
+Unloading cell
+loading cell -4, -3
+loading cell -4, -2
+loading cell -4, -1
+loading cell -3, -3
+loading cell -3, -2
+loading cell -3, -1
+loading cell -2, -3
+loading cell -2, -2
+loading cell -2, -1
+Quitting peacefully.
