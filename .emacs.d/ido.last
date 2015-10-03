@@ -2,8 +2,11 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/sotosgc/COMP2401/" . "assignment1/")
+ ("/home/sotosgc/COMP2402/comp2402a1/" . "tests/")
+ ("/home/sotosgc/COMP2402/" . "comp2402a1/")
  ("/home/sotosgc/.emacs.d/elpa/archives/" . "marmalade/")
- ("/home/sotosgc/.emacs.d/elpa/" . "archives/")
+ ("/home/sotosgc/.emacs.d/elpa/" . "smart-mode-line-20141219.448/")
  ("/home/sotosgc/.wine/drive_c/Program Files (x86)/" . "Steam/")
  ("/home/sotosgc/.wine/drive_c/" . "Program Files (x86)/")
  ("/home/sotosgc/.wine/" . "drive_c/")
@@ -15,24 +18,33 @@
  ("/home/sotosgc/.forge/decks/" . "constructed/")
  ("/home/sotosgc/.forge/" . "decks/")
  ("/home/sotosgc/Carleton Winter 2015/COMP 1406/Tutorials/" . "1/")
- ("/home/sotosgc/.config/" . "i3status/")
+ ("/home/sotosgc/.config/" . "fish/")
  ("/home/" . "sotosgc/")
  ("/home/sotosgc/Carleton Winter 2015/COMP 1406/" . "Assignment1A/")
  ("/home/sotosgc/Carleton Winter 2015/" . "COMP 1406/")
  ("/home/sotosgc/Carleton Fall 2014/" . "COMP1405/")
- ("/home/sotosgc/" . ".config/")
+ ("/home/sotosgc/" . "COMP2401/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/sotosgc/.config/i3status/"
+ "/home/sotosgc/COMP2401/assignment1/"
+ "/home/sotosgc/Programming/Ruby/"
+ "/home/sotosgc/COMP2402/comp2402a1/"
+ "/home/sotosgc/COMP2402/tests/"
+ "/home/sotosgc/COMP2402/comp2402a1/tests/"
+ "/home/sotosgc/COMP2401/"
  "/home/sotosgc/.emacs.d/"
- "/home/sotosgc/.i3/"
+ "/home/sotosgc/COMP2402/"
+ "/home/sotosgc/.config/fish/"
  "/home/sotosgc/"
+ "/home/sotosgc/dotfilesToBackUp/"
+ "/home/sotosgc/.emacs.d/elpa/smart-mode-line-20141219.448/"
+ "/home/sotosgc/.config/i3status/"
+ "/home/sotosgc/.i3/"
  "/home/sotosgc/Scripts/"
  "/home/sotosgc/.forge/decks/constructed/"
  "/home/sotosgc/Documents/"
- "/home/sotosgc/.config/fish/"
  "/home/sotosgc/.config/sxhkd/"
  "/home/sotosgc/.config/openmw/"
  "/home/sotosgc/CarletonWinter2015/PSCI1100/"
@@ -58,41 +70,59 @@
 
 ;; ----- ido-work-file-list -----
 (
- "config"
- "zenburn-theme.el"
- ".Xdefaults"
- "slop.sh"
- ".Xauthority"
- ".xinitrc"
- "busty nacs2.dck"
- "monthlybudget.org"
- "config.fish"
- "code"
+ "bit_manipulation.h"
+ "transmit.c"
+ "bit_manipulation.c"
+ "receive.c"
+ "._transmit.c"
+ "ri20min.rb"
+ "Part5.java"
+ "Part8.java"
+ "Part4.java"
+ "test4-03.in"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/sotosgc/.emacs.d/" (21889 9254 183374 70000) "#garbage.el#" "session.2.10f60e74fa83c1d53141252842848137900000003150043" "packages/" "session.10b4328a74e7c898b6142351162696730300000004900040" "session.2.105e066fed66688e98142047669354654900000005740028" "commands.org" "elpa/" "completion.el" "garbage.el" "semanticdb/" "completion.el~" "var/" "keybindings.el" "abbrev_defs" "appearance.el" "modes.el" "../" ".directory" ".git/" "README.md" "auto-save-list/" "requires.el~" "trash/" "games/" "init.el" "ac-comphist.dat" "misc.el" "session.2.10341e4f40b3d9a5e7141586447375046700000003300064" "./" "tmp28393WAJ" "modes.el~" "saves/" ".mc-lists.el" "requires.el" "ido.last~" "zenburn-theme.el" "LICENSE" ".emacs.d" "misc.el~" "ido.last")
+ ("/home/sotosgc/COMP2401/assignment1/" (22031 9785 590240 809000) "receive.c" "._transmit.c" "assignment1A.txt" "bit_manipulation.h" "bit_manipulation.c" "../" "transmit.c" "assignment1.pdf" "assign1.tar" "tran" "._bit_manipulation.c" "./" "._bit_manipulation.h" "._receive.c")
 
- ("/home/sotosgc/.i3/" (21889 9510 503380 398000) "../" "./" "config")
+ ("/home/sotosgc/.config/transmission/" (22030 61893 366740 59000) "dht.dat" "blocklists/" "../" "stats.json" "settings.json" "./" "resume/" "torrents/")
 
- ("/home/sotosgc/.config/i3status/" (21889 9397 280044 270000) ".config" "../" "./" "config")
+ ("/home/sotosgc/.config/fish/" (22030 41774 353487 493000) "../" "fishd.sotosgc" "./" "config.fish" "fish_history")
 
- ("/home/sotosgc/" (21889 9056 743369 190000) ".eclipse/" ".config/" "Documents/" ".Xdefaults2" "lmms/" "1" ".xsel.log" ".kde4/" ".Xdefaults" "Torrent Files and Tarballs/" "Scripts/" "Music/" ".gimp-2.8/" ".wine/" ".adobe/" "3" ".java/" ".android/" "1430010875476.jpg" ".dbus/" ".gnome2/" "4" ".forge/" ".gnome/" "dtime/" ".bash_logout" ".vimrc" ".zsh-autosuggestions/" ".vidalia/" "sketchbook/" ".i3/" ".viminfo" ".gitconfig" ".git-credential-cache/" ".fehbg" ".steampid" "code" ".Xauthority" ".xinitrc" ".IdeaIC14/" ".zcompdump" ".bashrc" "CarletonWinter2015/" ".steam/" "../" "TxwQYcL.png" ".steampath" "Programs/" ".audacity-data/" "Desktop/" "2" ".gstreamer-0.10/" ".local/" ".gnome2_private/" "workspace/" ".mplayer/" ".lastpass/" ".bash_profile" ".gksu.lock" ".dwarffortress/" "Downloads/" ".pulse-cookie" "./" ".zshrc" ".p7zip" ".Skype/" ".tor/" "Videos/" ".ssh/" ".bash_history" ".zenmap/" "Pdfs/" ".recently-used" ".esd_auth" ".xmodmap" ".cache/" ".mozilla/" ".urxvt/" ".macromedia/" ".lmmsrc.xml" ".emacs.d/" ".ICEauthority" "Public/" ".processing/" ".pki/" "My Games/" ".gnupg/")
+ ("/home/sotosgc/.emacs.d/" (22030 43746 800202 863000) "session.2.10f60e74fa83c1d53141252842848137900000003150043" "packages/" "session.10b4328a74e7c898b6142351162696730300000004900040" "session.2.105e066fed66688e98142047669354654900000005740028" "commands.org" "elpa/" "garbage.el" "semanticdb/" "completion.el~" "var/" "abbrev_defs" "../" ".directory" ".git/" "README.md" "auto-save-list/" "requires.el~" "trash/" "games/" "init.el" "ac-comphist.dat" "session.2.10341e4f40b3d9a5e7141586447375046700000003300064" "./" "tmp28393WAJ" "modes.el~" "saves/" ".mc-lists.el" "ido.last~" "zenburn-theme.el" "LICENSE" ".emacs.d" "misc.el~" "ido.last")
 
- ("/home/sotosgc/.config/" (21888 58890 566615 905000) "startupconfig" "openmw/" "autostart/" "unity3d/" "banshee-1/" "gtk-2.0/" "gnome-session/" "ktimezonedrc" "libreoffice/" "gconf/" "user-dirs.dirs" "kglobalshortcutsrc" "kdebugrc" "chromium/" "pulse/" "google-chrome/" "kdeglobals" "kactivitymanagerdrc" "evolution/" "sxhkd/" "gwenviewrc" "plasma-localerc" "fish/" "akonadi/" "pavucontrol.ini" "ImageMagick/" "startupconfigfiles" "libaccounts-glib/" "fontforge/" "katepartrc" "powermanagementprofilesrc" "user-dirs.locale" "dwb/" "khotkeysrc" "vlc/" "htop/" "drkonqirc" "i3status/" "plasmashellrc" "dconf/" "startupconfigkeys" "../" "session/" "katevirc" "bluedevilglobalrc" "goa-1.0/" "bspwm/" "mimeapps.list" "powerdevilrc" "dleyna-renderer-service.conf" "kcalcrc" "Clementine/" "dleyna-server-service.conf" "gnome-control-center/" "gentoo/" "Pinta/" "gtkrc" "inkscape/" "ibus/" "katerc" "mono.addins/" "plank/" "plasma-org.kde.plasma.desktop-appletsrc" "menus/" "transmission/" "konsolerc" "exaile/" "tracker/" "baloofilerc" "kwriterc" "Code/" "./" "nautilus/" "systemsettingsrc" "gtk-3.0/" "powerline/" "kconf_updaterc" "kickoffrc" "cmus/" "anjuta/" "Trolltech.conf" "gtkrc-2.0" "kwinrc" "kscreenlockerrc" "Skype/")
+ ("/home/sotosgc/Programming/Ruby/" (22030 41995 983492 965000) "ri20min.rb" "../" "./")
 
- ("/home/sotosgc/Scripts/" (21889 7653 10001 201000) "whatsmyip.bash" "flacToMp3.sh" "../" "slop.sh" "./" "steam.bash" "stuff.bash")
+ ("/home/sotosgc/" (22030 43808 556871 55000) ".eclipse/" ".config/" "PuP02mp.jpg" "Documents/" ".Xdefaults2" "lmms/" "1" ".xsel.log" "scan.nmap" ".kde4/" ".xid" "budget.org" ".renpy/" ".Xdefaults" "Torrent Files and Tarballs/" "Scripts/" "COMP2402/" "Music/" ".gimp-2.8/" ".wine/" ".adobe/" "3" ".java/" "COMP2401/" ".android/" ".dbus/" ".gnome2/" "Programming/" ".forge/" ".gnome/" "dtime/" ".bash_logout" ".vimrc" ".zsh-autosuggestions/" "tmp/" ".vidalia/" "PHYS1901/" "sketchbook/" ".i3/" ".john/" ".viminfo" ".gitconfig" ".git-credential-cache/" ".fehbg" ".steampid" ".Xauthority" ".xinitrc" ".IdeaIC14/" ".zcompdump" ".bashrc" ".steam/" "../" ".steampath" "Programs/" ".audacity-data/" "Desktop/" "2" ".gstreamer-0.10/" ".local/" ".gnome2_private/" "workspace/" ".mplayer/" ".lastpass/" ".bash_profile" ".gksu.lock" ".dwarffortress/" "ERTH2415/" "Downloads/" ".pulse-cookie" "./" ".zshrc" ".p7zip" ".Skype/" ".tor/" "Videos/" ".ssh/" ".bash_history" "Beyond the Mountains of Madness.pdf" ".zenmap/" "Pdfs/" ".recently-used" ".esd_auth" ".xmodmap" "dotfilesToBackUp/" ".cache/" ".mozilla/" ".urxvt/" ".macromedia/" ".lmmsrc.xml" ".emacs.d/" ".pokerth/" ".ICEauthority" "Public/" ".processing/" ".pki/" "My Games/" ".gnupg/")
 
- ("/home/sotosgc/.config/transmission/" (21889 4547 213468 665000) "dht.dat" "blocklists/" "../" "stats.json" "settings.json" "./" "resume/" "torrents/")
+ ("/home/sotosgc/Documents/" (22021 49960 240021 512000) "cube-list.org" "dfgdfg.jpg" "pjava.sh" "mtg-need.org" "mozilla.pdf" "d.jpg" "EVE/" "MumbleAutomaticCertificateBackup.p12" "SDzXDfsdazxcv/" "snapshot14.png" "snapshot2.png" "snapshot13.png" "OldSemesters/" "snapshot12.png" ".math/" "Documents.pde" "bookmarks_27_09_2014.html" "snapshot17.png" "snapshot8.png" "snapshot7.png" "#sadfasdf#" "dwb/" "snapshot6.png" "sfagdfs.jpg" "sketchbook/" "snapshot4.png" "monthlybudget.org" "QPGBqiM.jpg" "vlc/" "snapshot11.png" "snapshot5.png" "Exam Review june 2015.doc" "../" "hey.txt" "backtrace.txt" "Partition-Stucture.org" "Question4/" "selvala.dck" "MTG-edh-red.txt" ".directory" "MTG-edh-blue.txt" "highschool/" "razercfg-0.30/" "index.html" "Stefan REsume Outline.pdf" "TODO.org" "nds games/" "asdfasdfsdfdfd1.png" "snapshot16.png" "Screenshot from 2015-01-04 15:48:53.png" "hobo.org" "snapshot3.png" "#staples-modern.org#" "asdfasdfsdfdfd.png" "reset-tide.txt" "snapshot1.png" "./" "snapshot15.png" "snapshot10.png" "hey.pde" "asdf.jpg" "#to_download.txt#" "hax/" "important-info.txt" "l5rcm/" "docs.tar.gz" "install_flash_player_11_linux.x86_64/" "asdfasdfasdfsdfsdfdsfd" "sxhkdrc" "snapshot9.png" "Carleton-housing.org" "1-01 Storm.mp3" "btmom/" "last-cmus.py" "Comp Sci Encryption/" "My Games/" "winetricks")
 
- ("/home/sotosgc/.config/openmw/" (21867 27520 296213 459000) "opencsOgre.log" "MyGUI.log" "launcherOgre.log" "openmw.cfg" "opencs.ini" "../" "wizard.log" "input_v2.xml" "./" "launcher.cfg" "ogre.log" "input_v3.xml" "openmw.log" "settings.cfg")
+ ("/home/sotosgc/.forge/decks/constructed/" (22020 16409 690019 54000) "high tide.dck" "modern uwr fog wildfire.dck" "35 land.dec.dck" "bug midrange.dck" "melira pod fl.dck" "gb nic fit.dck" "uw landstill.dck" "legacy pox.dck" "abzan midrange standard.dck" "vintage.dck" "adnaseum.dck" "Modern Loam 5c.dck" "rug fae legacy.dck" "sneak and show.dck" "uwr geist.dck" "bant flash modern.dck" "junk midrange.dck" "uwrb delver.dck" "esper delve.dck" "u_r delver legacy.dck" "ur counterburn.dck" "living end.dck" "leyline of singularity WUBRG.dck" ".dck" "reid duke jund.dck" "vintage mentor.dck" "you go twin coco.dck" "stone rain.dck" "jeskai tokens.dck" "ub tezzeret legacy.dck" "jacob wilson bant coco.dck" "death and taxes.dck" "UWr miracles.dck" "monoblue tempo.dck" "bant control modern.dck" "wolfrun bant.dck" "blue moon.dck" "stompy.dck" "modern cheeri0s.dck" "jund depths.dck" "lumberjack survival.dck" "naya chord.dck" "jund modern.dck" "esper deathblade.dck" "restore balance.dck" "self hate modern.dck" "Ur Fae modern.dck" "Skred Red.dck" "GB reid duke.dck" "monoblack pox.dck" "bug oath.dck" "affinity.dck" "ur possibility storm.dck" "rug delver modern.dck" "HooglandUWModernFae.dck" "imperial painter.dck" "4c loam.dck" "u_r delver modern.dck" "u_r storm 2.dck" "u_r pauper.dck" "u_w control.dck" "bronzebroken moa.dck" "ninja bear delver.dck" "devotion to gruul.dck" "rug delver vintage.dck" "rug delver 2.dck" "grixis stuff legacy.dck" "food chain 2.dck" "GWb maverick legacy.dck" "leylines.dec.dck" "maverick.dck" "uw control modern.dck" "legit modern abzan.dck" "draft 2.dck" "4c gifts.dck" "dragonstorm.dck" "melira pod.dck" "legacy fish.dck" "jund.dck" "shardless bug.dck" "banchantments.dck" "r_w burn modern.dck" "tes.dck" "kibler modern zoo.dck" "edric competitive.dck" "modern big zoo.dck" "uwr control.dck" "Grishoalbrand.dck" "busty nacs.dck" "uwr standard.dck" "vintage dredge.dck" "cephalid breakfast.dck" "monoblue belcher.dck" "u_r storm.dck" "junk midrange modern.dck" "angel pod.dck" "burning reanimator.dck" "4c burn timetwister modern.dck" "Shardless countertop.dck" "belcher.dck" "u_r burn modern.dck" "relentless rats.dck" "flash hulk.dck" "monoblue pod.dck" "chalice fish.dck" "bug delver.dck" "jeskai ascendency modern.dck" "bug fish.dck" "unrestricted flash.dck" "hate zoo.dck" "reset tide.dck" "spanish inquistion.dck" "omni-tell.dck" "goryos vengance.dck" "Legacy Bant Faeries.dck" "seismic swans.dck" "tps.dck" "rdw.dck" "r_g monsters.dck" "u_r delver.dck" "gwb jacob wilson modern.dck" "uwr modern counterbalance.dck" "uwr swans control.dck" "modern legit dredge.dck" "MUD.dck" "uwr burn.dck" "tarmofinity.dck" "mud vintage.dck" "takin turns.dck" "stiflenought.dck" "legacy jeskai ascendancy.dck" "maverick splash blue.dck" "r_g tron.dck" "g_b persecutor rock.dck" "monoblack ancient.dck" "monored burn.dck" "TPS.dck" "u_b mill.dck" "storm aggro modern.dck" "monowhite swords.dck" "coco elves.dck" "u_r delver 2.dck" "modern relentless rats.dck" "zoo.dck" "ANT tendrils.dck" "tezz.dck" "bug nic fit pod.dck" "esper mentor.dck" "human.dck" "dredge.dck" "uwrg delver.dck" "legacy jund.dck" "legacy mud.dck" "worldgorger dragon legacy.dck" "blue manaless dredge.dck" "monowhite silliness.dck" "wg tron.dck" "food chain.dck" "monored impact tremors.dck" "Modern enchantress.dck" "rug landtop.dck" "uwr ancestral control.dck" "grixis vintage.dck" "vintage dredge 2.dck" "Gush storm.dck" "lost in the woods.dck" "vintage tezz.dck" "5c modern latern.dck" "u_r storm 3.dck" "modern lands.dck" "rally standard dtk.dck" "mb pauper.dck" "12 post.dck" "top control.dck" "grixis control legacy.dck" "pack rat.dck" "uwr geist 2.dck" "ddft.dck" "26_11_14 standard esper control.dck" "prison zur.dck" "bant modern.dck" "junk modern.dck" "Modern Belcher.dck" "mono green ramp.dck" "Boss Infect.dck" "meathooks.dck" "High Tide 2.dck" "monored tron fireball.dck" "summoners egg.dck" "lands.dck" "5c nic fit.dck" "uwr control 2.dck" "tin fins.dck" "oops all spells.dck" "legacy elves.dck" "mono U tron.dck" "u_r tempo twin.dck" "uwr splinter twin.dck" "ub ordeal.dck" "esper cruise.dck" "b_g loam pox.dck" "busty nacs2 w_ guides.dck" "ub control standard.dck" "modern caw blade.dck" "nic fit.dck" "5c aggro gifts loam.dck" "MUC modern.dck" "monoblue control.dck" "dega midrange modern.dck" "tyrant gush oath.dck" "monored burn legacy.dck" "ant storm.dck" "tezzerator.dck" "junk aristocrats.dck" "bug edric.dck" "BUG Pod Nic Fit.dck" "lantern control elsik.dck" "60 dryad arbor.dck" "bant choke.dck" "goats of war.dck" "monored storm.dck" "bloom titan.dck" "living end 2.dck" "busty nacs2.dck" "draft 1.dck" "modern 5c slivers.dck" "vintage dark times.dck" "tribal zoo.dck" "u_w standstill.dck" "vintage doomsday.dck" "melira cc.dck" "ug infect modern.dck" "../" "./")
 
- ("/home/sotosgc/.config/fish/" (21888 36240 797098 66000) "../" "fishd.sotosgc" "./" "config.fish" "fish_history")
+ ("/home/sotosgc/COMP2402/" (22020 13375 556912 858000) "../" "tests/" "COMP2402-F15-A1-Stefan-Soto.zip" "COMP2402-F15-A1-Stefan-Soto/" "comp2402a1/" "COMP2402-F15-A1-Stefan-Soto2/" "./" "COMP2402-F15-A1-Stefan-Soto2.zip" "ods-java.pdf" "COMP2402-F15-W01-01-(Assignment 1 of 5).pdf" "2-9.org")
 
- ("/home/sotosgc/Documents/" (21881 6595 583385 398000) "cube-list.org" "pjava.sh" "mtg-need.org" "mozilla.pdf" "d.jpg" "EVE/" "MumbleAutomaticCertificateBackup.p12" "SDzXDfsdazxcv/" "snapshot2.png" "Documents.pde" "bookmarks_27_09_2014.html" "snapshot8.png" "snapshot7.png" "#sadfasdf#" "dwb/" "snapshot6.png" "sketchbook/" "snapshot4.png" "monthlybudget.org" "QPGBqiM.jpg" "vlc/" "snapshot5.png" "Exam Review june 2015.doc" "../" "hey.txt" "backtrace.txt" "Partition-Stucture.org" "Question4/" "selvala.dck" "MTG-edh-red.txt" ".directory" "MTG-edh-blue.txt" "highschool/" "razercfg-0.30/" "Stefan REsume Outline.pdf" "TODO.org" "nds games/" "asdfasdfsdfdfd1.png" "Screenshot from 2015-01-04 15:48:53.png" "snapshot3.png" "#staples-modern.org#" "asdfasdfsdfdfd.png" "reset-tide.txt" "snapshot1.png" "./" "snapshot10.png" "hey.pde" "#to_download.txt#" "important-info.txt" "l5rcm/" "install_flash_player_11_linux.x86_64/" "asdfasdfasdfsdfsdfdsfd" "sxhkdrc" "snapshot9.png" "Carleton-housing.org" "Carleton Fall 2014/" "1-01 Storm.mp3" "last-cmus.py" "Comp Sci Encryption/" "My Games/" "winetricks")
+ ("/home/sotosgc/COMP2401/" (22029 42996 823563 576000) "receive.c" "._transmit.c" "bit_manipulation.h" "assignment1/" "bit_manipulation.c" "../" "transmit.c" "2-9" "._bit_manipulation.c" "./" "._bit_manipulation.h" "2-9.org" "._receive.c")
 
- ("/home/sotosgc/.forge/decks/constructed/" (21888 45307 976681 284000) "high tide.dck" "modern uwr fog wildfire.dck" "35 land.dec.dck" "bug midrange.dck" "melira pod fl.dck" "gb nic fit.dck" "legacy pox.dck" "abzan midrange standard.dck" "vintage.dck" "adnaseum.dck" "Modern Loam 5c.dck" "rug fae legacy.dck" "sneak and show.dck" "uwr geist.dck" "bant flash modern.dck" "junk midrange.dck" "uwrb delver.dck" "esper delve.dck" "u_r delver legacy.dck" "ur counterburn.dck" "living end.dck" "leyline of singularity WUBRG.dck" ".dck" "vintage mentor.dck" "stone rain.dck" "jeskai tokens.dck" "ub tezzeret legacy.dck" "jacob wilson bant coco.dck" "death and taxes.dck" "UWr miracles.dck" "monoblue tempo.dck" "bant control modern.dck" "wolfrun bant.dck" "blue moon.dck" "stompy.dck" "modern cheeri0s.dck" "jund depths.dck" "lumberjack survival.dck" "jund modern.dck" "esper deathblade.dck" "restore balance.dck" "self hate modern.dck" "Ur Fae modern.dck" "Skred Red.dck" "GB reid duke.dck" "monoblack pox.dck" "bug oath.dck" "affinity.dck" "ur possibility storm.dck" "HooglandUWModernFae.dck" "imperial painter.dck" "4c loam.dck" "u_r delver modern.dck" "u_r storm 2.dck" "u_r pauper.dck" "u_w control.dck" "bronzebroken moa.dck" "ninja bear delver.dck" "devotion to gruul.dck" "rug delver vintage.dck" "rug delver 2.dck" "grixis stuff legacy.dck" "food chain 2.dck" "leylines.dec.dck" "maverick.dck" "uw control modern.dck" "legit modern abzan.dck" "draft 2.dck" "4c gifts.dck" "dragonstorm.dck" "melira pod.dck" "legacy fish.dck" "jund.dck" "shardless bug.dck" "banchantments.dck" "r_w burn modern.dck" "tes.dck" "kibler modern zoo.dck" "edric competitive.dck" "modern big zoo.dck" "uwr control.dck" "Grishoalbrand.dck" "busty nacs.dck" "uwr standard.dck" "vintage dredge.dck" "cephalid breakfast.dck" "monoblue belcher.dck" "u_r storm.dck" "junk midrange modern.dck" "angel pod.dck" "burning reanimator.dck" "Shardless countertop.dck" "belcher.dck" "u_r burn modern.dck" "relentless rats.dck" "flash hulk.dck" "monoblue pod.dck" "chalice fish.dck" "bug delver.dck" "jeskai ascendency modern.dck" "unrestricted flash.dck" "hate zoo.dck" "reset tide.dck" "spanish inquistion.dck" "omni-tell.dck" "goryos vengance.dck" "Legacy Bant Faeries.dck" "seismic swans.dck" "tps.dck" "rdw.dck" "r_g monsters.dck" "u_r delver.dck" "gwb jacob wilson modern.dck" "uwr modern counterbalance.dck" "modern legit dredge.dck" "MUD.dck" "uwr burn.dck" "tarmofinity.dck" "mud vintage.dck" "takin turns.dck" "stiflenought.dck" "legacy jeskai ascendancy.dck" "maverick splash blue.dck" "r_g tron.dck" "g_b persecutor rock.dck" "monoblack ancient.dck" "monored burn.dck" "TPS.dck" "u_b mill.dck" "storm aggro modern.dck" "monowhite swords.dck" "coco elves.dck" "u_r delver 2.dck" "modern relentless rats.dck" "zoo.dck" "ANT tendrils.dck" "tezz.dck" "bug nic fit pod.dck" "esper mentor.dck" "human.dck" "dredge.dck" "uwrg delver.dck" "legacy jund.dck" "legacy mud.dck" "worldgorger dragon legacy.dck" "blue manaless dredge.dck" "monowhite silliness.dck" "wg tron.dck" "food chain.dck" "monored impact tremors.dck" "Modern enchantress.dck" "rug landtop.dck" "uwr ancestral control.dck" "grixis vintage.dck" "vintage dredge 2.dck" "Gush storm.dck" "lost in the woods.dck" "vintage tezz.dck" "5c modern latern.dck" "u_r storm 3.dck" "modern lands.dck" "rally standard dtk.dck" "mb pauper.dck" "12 post.dck" "top control.dck" "grixis control legacy.dck" "pack rat.dck" "uwr geist 2.dck" "ddft.dck" "26_11_14 standard esper control.dck" "prison zur.dck" "bant modern.dck" "junk modern.dck" "Modern Belcher.dck" "mono green ramp.dck" "Boss Infect.dck" "meathooks.dck" "High Tide 2.dck" "monored tron fireball.dck" "summoners egg.dck" "lands.dck" "5c nic fit.dck" "uwr control 2.dck" "tin fins.dck" "oops all spells.dck" "legacy elves.dck" "mono U tron.dck" "u_r tempo twin.dck" "uwr splinter twin.dck" "ub ordeal.dck" "esper cruise.dck" "b_g loam pox.dck" "busty nacs2 w_ guides.dck" "ub control standard.dck" "modern caw blade.dck" "nic fit.dck" "5c aggro gifts loam.dck" "MUC modern.dck" "monoblue control.dck" "dega midrange modern.dck" "tyrant gush oath.dck" "monored burn legacy.dck" "ant storm.dck" "tezzerator.dck" "junk aristocrats.dck" "bug edric.dck" "BUG Pod Nic Fit.dck" "60 dryad arbor.dck" "bant choke.dck" "goats of war.dck" "monored storm.dck" "bloom titan.dck" "living end 2.dck" "busty nacs2.dck" "draft 1.dck" "modern 5c slivers.dck" "vintage dark times.dck" "tribal zoo.dck" "u_w standstill.dck" "vintage doomsday.dck" "melira cc.dck" "ug infect modern.dck" "../" "./")
+ ("/home/sotosgc/COMP2402/tests/" (22020 12441 196889 787000) "test7-04.out" "test2-04.in" "test1-02.in" "test6-02.out" "test2-01.in" "test5-02.out" "test2-02.in" "test5-01.in" "test3-01.in" "test4-02.in" "test6-01.out" "test2-03.out" "test3-03.in" "test4-02.out" "test7-03.out" "test1-01.in" "test7-02.in" "test7-03.in" "test1-01.out" "test3-01.out" "../" "test1-03.out" "test4-03.in" "test7-04.in" "test3-02.out" "test1-02.out" "test7-01.out" "test4-03.out" "test2-01.out" "test5-02.in" "test3-03.out" "test2-02.out" "test4-01.out" "test1-04.in" "./" "test5-01.out" "test6-01.in" "test1-04.out" "test2-04.out" "test3-02.in" "test2-03.in" "test7-01.in" "test4-01.in" "test1-03.in" "test7-02.out" "test6-02.in")
+
+ ("/home/sotosgc/COMP2402/comp2402a1/" (22020 13290 470244 90000) "Part4.java" "Part2.java" "Part0.java" "Part3.java" "Part5.java" "Part7.java" "../" ".directory" "Part8.java" "./" "Part1.java" "Part6.java")
+
+ ("/home/sotosgc/Programming/" (22030 40951 523467 176000) "../" "./")
+
+ ("/home/sotosgc/COMP2402/comp2402a1/tests/" (22015 25682 580145 251000) "test7-04.out" "test2-04.in" "test1-02.in" "test6-02.out" "test2-01.in" "test5-02.out" "test2-02.in" "test5-01.in" "test3-01.in" "test4-02.in" "test6-01.out" "test2-03.out" "test3-03.in" "test4-02.out" "test7-03.out" "test1-01.in" "test7-02.in" "test7-03.in" "test1-01.out" "test3-01.out" "../" "test1-03.out" "test7-04.in" "test3-02.out" "test1-02.out" "test7-01.out" "test2-01.out" "test5-02.in" "test3-03.out" "test2-02.out" "test4-01.out" "test1-04.in" "./" "test5-01.out" "test6-01.in" "test1-04.out" "test2-04.out" "test3-02.in" "test2-03.in" "test7-01.in" "test4-01.in" "test1-03.in" "test7-02.out" "test6-02.in")
+
+ ("/home/sotosgc/.config/" (21991 10977 703333 499000) "startupconfig" "openmw/" "autostart/" "unity3d/" "banshee-1/" "gtk-2.0/" "gnome-session/" "ktimezonedrc" "libreoffice/" "gconf/" "user-dirs.dirs" "kglobalshortcutsrc" "kdebugrc" "chromium/" "pulse/" "google-chrome/" "kdeglobals" "kactivitymanagerdrc" "evolution/" "sxhkd/" "gwenviewrc" "plasma-localerc" "fish/" "akonadi/" "pavucontrol.ini" "ImageMagick/" "startupconfigfiles" "libaccounts-glib/" "fontforge/" "katepartrc" "powermanagementprofilesrc" "dwb/" "khotkeysrc" "vlc/" "picmi/" "htop/" "drkonqirc" "i3status/" "plasmashellrc" "dconf/" "startupconfigkeys" "../" "session/" "katevirc" "bluedevilglobalrc" "goa-1.0/" "bspwm/" "mimeapps.list" "powerdevilrc" "dleyna-renderer-service.conf" "kcalcrc" "Clementine/" "dleyna-server-service.conf" "gnome-control-center/" "gentoo/" "Pinta/" "gtkrc" "inkscape/" "ibus/" "katerc" "mono.addins/" "plank/" "plasma-org.kde.plasma.desktop-appletsrc" "menus/" "yelp/" "transmission/" "konsolerc" "exaile/" "tracker/" "baloofilerc" "kwriterc" "Code/" "cef_user_data/" "./" "nautilus/" "systemsettingsrc" "gtk-3.0/" "powerline/" "kconf_updaterc" "kickoffrc" "cmus/" "anjuta/" "Trolltech.conf" "gtkrc-2.0" "kwinrc" "kscreenlockerrc" "systemd/" "Skype/")
+
+ ("/home/sotosgc/.config/openmw/" (21925 29298 970080 202000) "opencsOgre.log" "MyGUI.log" "launcherOgre.log" "openmw.cfg" "opencs.ini" "../" "wizard.log" "input_v2.xml" "./" "launcher.cfg" "ogre.log" "input_v3.xml" "openmw.log" "settings.cfg")
+
+ ("/home/sotosgc/Scripts/" (21921 52783 416693 517000) "whatsmyip.bash" "parseNmapPortsToTxt.sh" "443.txt" "flacToMp3.sh" "445.txt" "../" "slop.sh" "22.txt" "80.txt" "./" "23.txt" "steam.bash" "21.txt" "stuff.bash")
+
+ ("/home/sotosgc/dotfilesToBackUp/" (21921 29695 380192 457000) ".config/" ".Xdefaults" ".forge/" ".vimrc" ".i3/" ".xinitrc" "../" ".git/" "./" ".xmodmap" ".urxvt/" ".emacs.d/")
+
+ ("/home/sotosgc/.i3/" (21889 55411 199969 32000) "../" "./" "config")
+
+ ("/home/sotosgc/.config/i3status/" (21889 63831 596628 671000) ".config" "../" "./" "config")
 
  ("/home/sotosgc/.forge/" (21872 33110 442554 621000) "decks/" "../" "quest/" "preferences/" "forge.log" "gauntlet/" "achievements/" "./")
 

@@ -1,0 +1,367 @@
+;; Object comp2402a1/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "comp2402a1/"
+  :tables
+  (list
+    (semanticdb-table "Part0.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.HashSet" include nil nil [197 222])
+            ("java.util.Iterator" include nil nil [223 249])
+            ("java.util.Set" include nil nil [250 271])
+            ("Part0" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [676 692])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [694 707]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [652 959])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1176 1189]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1152 1858]))                  
+                :type "class")
+                nil [273 1860]))          
+      :file "Part0.java"
+      :pointmax 1861
+      :fsize 1860
+      :lastmodtime '(21510 32150 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part1.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.LinkedHashSet" include nil nil [197 228])
+            ("java.util.Iterator" include nil nil [229 255])
+            ("java.util.Set" include nil nil [256 277])
+            ("Part1" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [486 502])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [504 517]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [462 954])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1175 1188]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1151 1857]))                  
+                :type "class")
+                nil [280 1859]))          
+      :file "Part1.java"
+      :pointmax 1861
+      :fsize 1860
+      :lastmodtime '(22015 25736 676813 254000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part2.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.HashSet" include nil nil [197 222])
+            ("java.util.Iterator" include nil nil [223 249])
+            ("java.util.Set" include nil nil [250 271])
+            ("java.util.SortedSet" include nil nil [272 299])
+            ("java.util.TreeSet" include nil nil [300 325])
+            ("Part2" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [533 549])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [551 564]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [509 1244])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1461 1474]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1437 2143]))                  
+                :type "class")
+                nil [327 2145]))          
+      :file "Part2.java"
+      :pointmax 2146
+      :fsize 2145
+      :lastmodtime '(22015 25743 470146 755000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part3.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.ArrayList" include nil nil [197 224])
+            ("java.util.List" include nil nil [225 247])
+            ("java.util.Collections" include nil nil [248 277])
+            ("Part3" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [485 501])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [503 516]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [461 905])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1122 1135]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1098 1804]))                  
+                :type "class")
+                nil [279 1806]))          
+      :file "Part3.java"
+      :pointmax 1807
+      :fsize 1806
+      :lastmodtime '(22015 25748 263480 207000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part4.java"
+      :major-mode 'jde-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("Part4" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [431 447])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [449 462]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [407 1589])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1808 1821]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1784 2490]))                  
+                :type "class")
+                nil [225 2492]))          
+      :file "Part4.java"
+      :pointmax 2493
+      :fsize 2492
+      :lastmodtime '(22020 12446 136889 909000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part5.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.SortedSet" include nil nil [197 224])
+            ("java.util.TreeSet" include nil nil [225 250])
+            ("java.util.Collections" include nil nil [251 280])
+            ("java.util.Comparator" include nil nil [281 309])
+            ("Part5" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [544 560])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [562 575]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [520 1811])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [2034 2047]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [2010 2716]))                  
+                :type "class")
+                nil [311 2718]))          
+      :file "Part5.java"
+      :pointmax 2719
+      :fsize 2718
+      :lastmodtime '(22020 13279 206910 479000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part6.java"
+      :major-mode 'jde-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.ArrayList" include nil nil [197 224])
+            ("java.util.List" include nil nil [225 247])
+            ("Part6" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [455 471])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [473 486]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [431 1180])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1397 1410]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1373 2079]))                  
+                :type "class")
+                nil [249 2081]))          
+      :file "Part6.java"
+      :pointmax 2082
+      :fsize 2081
+      :lastmodtime '(22015 25769 266814 58000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part7.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("comp2402a1" package nil nil [1 20])
+            ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.ArrayDeque" include nil nil [197 225])
+            ("java.util.Deque" include nil nil [226 249])
+            ("Part7" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [457 473])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [475 488]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [433 1611])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1828 1841]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1804 2510]))                  
+                :type "class")
+                nil [251 2512]))          
+      :file "Part7.java"
+      :pointmax 2513
+      :fsize 2512
+      :lastmodtime '(22015 25777 60147 584000)
+      :unmatched-syntax nil)
+    (semanticdb-table "Part8.java"
+      :major-mode 'java-mode
+      :tags 
+        '( ("java.io.BufferedReader" include nil nil [22 52])
+            ("java.io.FileReader" include nil nil [53 79])
+            ("java.io.FileWriter" include nil nil [80 106])
+            ("java.io.IOException" include nil nil [107 134])
+            ("java.io.InputStreamReader" include nil nil [135 168])
+            ("java.io.PrintWriter" include nil nil [169 196])
+            ("java.util.List" include nil nil [197 219])
+            ("java.util.ArrayList" include nil nil [220 247])
+            ("java.math.*" include nil nil [248 267])
+            ("java.util.Collections" include nil nil [268 297])
+            ("Part8" type
+               (:typemodifiers ("public")
+                :members 
+                  ( ("comp2402a1" package nil nil [1 20])
+                    ("doIt" function
+                       (:throws ("IOException")
+                        :typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("r" variable (:type "BufferedReader") (reparse-symbol formal_parameters) [505 521])
+                            ("w" variable (:type "PrintWriter") (reparse-symbol formal_parameters) [523 536]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [481 1260])
+                    ("main" function
+                       (:typemodifiers ("public" "static")
+                        :arguments 
+                          ( ("args" variable
+                               (:dereference 1
+                                :type "String")
+                                (reparse-symbol formal_parameters) [1477 1490]))                          
+                        :type "void")
+                        (reparse-symbol class_member_declaration) [1453 2159]))                  
+                :type "class")
+                nil [299 2161]))          
+      :file "Part8.java"
+      :pointmax 2162
+      :fsize 2161
+      :lastmodtime '(22020 12451 600223 377000)
+      :unmatched-syntax nil))
+  :file "!home!sotosgc!COMP2402!comp2402a1!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
